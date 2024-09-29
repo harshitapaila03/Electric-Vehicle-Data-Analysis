@@ -1,5 +1,5 @@
 # Electric-Vehicle-Data-Analysis
-# Electric Vehicle Population Dashboard
+\
 
 ## Introduction
 
